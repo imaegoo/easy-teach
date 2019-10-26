@@ -1,0 +1,20 @@
+[历史]
+1=#P0#=mb	#P1#=Timer5_Timer	#P2#=班班通助手/ZZBBT/Timer5_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131031221953	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=Timer4_Timer	#P2#=班班通助手/ZZBBT/Timer4_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131031222140	#P7#=0	#P8#=23	.
+3=#P0#=mb	#P1#=cmdUnLoad_Click	#P2#=班班通助手/ZZBBT/cmdUnLoad_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130331224308	#P7#=0	#P8#=14	.
+4=#P0#=mb	#P1#=GetWebBrowserHwnd	#P2#=班班通助手/GetWebBrowserHwnd/GetWebBrowserHwnd	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20130330170447	#P7#=0	#P8#=8	.
+5=#P0#=mb	#P1#=Timer1_Timer	#P2#=班班通助手/ZZBBT/Timer1_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130329195841	#P7#=0	#P8#=1	.
+6=#P0#=mb	#P1#=Timer2_Timer	#P2#=班班通助手/splash/Timer2_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130328093223	#P7#=0	#P8#=8	.
+7=#P0#=mb	#P1#=Timer7_Timer	#P2#=班班通助手/ZZBBT/Timer7_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130327235418	#P7#=0	#P8#=8	.
+8=#P0#=mb	#P1#=CommandMusic_Click	#P2#=班班通助手/ZZBBT/CommandMusic_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130327232915	#P7#=0	#P8#=2	.
+9=#P0#=mb	#P1#=CommandPPT1_Click	#P2#=班班通助手/ZZBBT/CommandPPT1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130327232034	#P7#=0	#P8#=2	.
+10=#P0#=mb	#P1#=Timer1_Timer	#P2#=班班通助手/Class/Timer1_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130327231047	#P7#=0	#P8#=1	.
+11=#P0#=mb	#P1#=Form_Load	#P2#=班班通助手/Class/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130327225749	#P7#=0	#P8#=189	.
+12=#P0#=mb	#P1#=Timer2_Timer	#P2#=班班通助手/ZZBBT/Timer2_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130327224651	#P7#=0	#P8#=-2	.
+13=#P0#=mb	#P1#=Label13_Click	#P2#=班班通助手/ZZBBT/Label13_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130327223557	#P7#=0	#P8#=1	.
+14=#P0#=mb	#P1#=Form_QueryUnload	#P2#=班班通助手/ZZBBT/Form_QueryUnload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130327223546	#P7#=0	#P8#=-2	.
+15=#P0#=mb	#P1#=Timer6_Timer	#P2#=班班通助手/ZZBBT/Timer6_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130325235938	#P7#=0	#P8#=2	.
+16=#P0#=mb	#P1#=CommandEdit_Click	#P2#=班班通助手/ZZBBT/CommandEdit_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130324221243	#P7#=0	#P8#=5	.
+17=#P0#=mb	#P1#=Timer3_Timer	#P2#=班班通助手/ZZBBT/Timer3_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20131031221934	#P7#=0	#P8#=8	.
+18=#P0#=mb	#P1#=Command1_Click	#P2#=班班通助手/Class/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130324220406	#P7#=0	#P8#=7	.
+19=#P0#=mb	#P1#=CommandOK_Click	#P2#=班班通助手/ZZBBT/CommandOK_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20130324215944	#P7#=0	#P8#=15	.

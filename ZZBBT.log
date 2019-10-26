@@ -1,0 +1,16 @@
+行 429: 控件 CommonDialog2 的类 MSComDlg.CommonDialog 不是一个已加载的控件类。
+行 440: 控件 CommonDialog1 的类 MSComDlg.CommonDialog 不是一个已加载的控件类。
+行 432: 属性名 _ExtentX 在 CommonDialog2 中是无效的。
+行 433: 属性名 _ExtentY 在 CommonDialog2 中是无效的。
+行 434: 属性名 _Version 在 CommonDialog2 中是无效的。
+行 435: 属性名 CancelError 在 CommonDialog2 中是无效的。
+行 436: 属性名 DialogTitle 在 CommonDialog2 中是无效的。
+行 437: 属性名 Flags 在 CommonDialog2 中是无效的。
+行 438: 属性名 InitDir 在 CommonDialog2 中是无效的。
+行 443: 属性名 _ExtentX 在 CommonDialog1 中是无效的。
+行 444: 属性名 _ExtentY 在 CommonDialog1 中是无效的。
+行 445: 属性名 _Version 在 CommonDialog1 中是无效的。
+行 446: 属性名 CancelError 在 CommonDialog1 中是无效的。
+行 447: 属性名 DialogTitle 在 CommonDialog1 中是无效的。
+行 448: 属性名 Flags 在 CommonDialog1 中是无效的。
+行 449: 属性名 InitDir 在 CommonDialog1 中是无效的。

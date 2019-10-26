@@ -1,0 +1,35 @@
+'模拟鼠标开始
+SetCursorPos 998, 357
+Sleep 100
+mouse_event MOUSEEVENTF_LEFTDOWN, 0, 0, 0, 0
+Sleep 100
+mouse_event MOUSEEVENTF_LEFTUP, 0, 0, 0, 0
+Sleep 500
+
+SetCursorPos 975, 366
+Sleep 100
+mouse_event MOUSEEVENTF_LEFTDOWN, 0, 0, 0, 0
+Sleep 100
+mouse_event MOUSEEVENTF_LEFTUP, 0, 0, 0, 0
+Sleep 500
+
+SetCursorPos 950, 588
+Sleep 100
+mouse_event MOUSEEVENTF_LEFTDOWN, 0, 0, 0, 0
+Sleep 100
+mouse_event MOUSEEVENTF_LEFTUP, 0, 0, 0, 0
+Sleep 500
+
+SetCursorPos 971, 137
+Sleep 100
+mouse_event MOUSEEVENTF_LEFTDOWN, 0, 0, 0, 0
+Sleep 100
+mouse_event MOUSEEVENTF_LEFTUP, 0, 0, 0, 0
+Sleep 500
+
+SetCursorPos 892, 184
+Sleep 100
+mouse_event MOUSEEVENTF_LEFTDOWN, 0, 0, 0, 0
+Sleep 100
+mouse_event MOUSEEVENTF_LEFTUP, 0, 0, 0, 0
+'模拟鼠标结束
